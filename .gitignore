@@ -43,9 +43,3 @@ out/artifacts/BookShop_war_exploded/bootstrap/
 out/artifacts/BookShop_war_exploded/img/
 out/artifacts/BookShop_war_exploded/index.jsp
 out/production/BookShop/druid.properties
-src/
-web/Pages/
-web/WEB-INF/web.xml
-web/bootstrap/
-web/img/
-web/index.jsp

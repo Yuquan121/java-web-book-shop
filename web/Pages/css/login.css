@@ -1,0 +1,24 @@
+#login_header{
+    height: 200px;
+}
+.c1{
+    height: 416px;
+}
+/*.lu{*/
+/*    height: 500px;*/
+/*    border-radius: 20px;*/
+/*}*/
+#login_box{
+    height: 500px;
+    border:  1px;
+}
+#btn_login{
+    width: 256px;
+    height: 48px;
+}
+
+a {
+    position: absolute;
+    left: 216px;
+    top: 299px;
+}
