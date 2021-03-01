@@ -1,10 +1,14 @@
-# JavaWeb-BookShop项目
+# JavaWeb-BookShop项目 
 
 #### 介绍
-一个基于servlet，jsp，mysql的书城项目。
 
-#### 软件架构
-软件架构说明
+​学习完JavaWeb相关的知识后，便写了这个简易的书城项目。该项目是基于servlet，jsp，mysql的书城项目。主要包含的知识点有Servlet程序、Filter过滤器、jsp页面、EL表达式、JSTL标签库、jQuery框架（导入了bootstrap框架，但前端页面几乎没有怎么写）、Cookie技术、Session会话、JSON使用、Ajax请求。
+
+​总体来说该项目比较简单，也很适合初学者练手学习。
+
+#### 总体模块
+
+
 
 
 #### 安装教程
