@@ -41,6 +41,7 @@ public class CartServlet extends BaseServlet {
             req.getSession().setAttribute("cart", cart);
         }
         cart.addItem(item);
+
         //重定向
         resp.sendRedirect(req.getHeader("Referer"));
         //添加最后一个商品的名称

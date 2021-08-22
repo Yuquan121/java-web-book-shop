@@ -1,6 +1,8 @@
 package com.lyy.Service;
 
 import com.lyy.domain.Cart;
+import com.lyy.domain.Order;
+
 
 public interface OrderService {
     /**
@@ -8,5 +10,7 @@ public interface OrderService {
      * @param userId
      * @return
      */
-    public String createOrder(Cart cart, Integer userId);
+    public Order createOrder(Cart cart, Integer userId);
+
+
 }
